@@ -8,9 +8,9 @@ By inputting this information, the program employs triangulation to compute the 
 The resulting coordinates not only pinpoint the stronghold's location in the overworld but also provide its corresponding position in the Nether dimension.<br>
 This tool significantly simplifies the task of finding strongholds in Minecraft, enhancing the overall gaming experience.<br>
 
-Those are the inputs of the code:
+Those are the inputs of the code:<br>
 ![image](https://github.com/CharlesCastelot/Minecraft-Stronghold-Calculator/assets/89413211/ed0f2b01-3a91-4c9f-b897-ea40530d6490)
 
 
-And this is what the console displays:
+And this is what the console displays:<br>
 ![image](https://github.com/CharlesCastelot/Minecraft-Stronghold-Calculator/assets/89413211/bdc994c0-b446-42ba-96b7-d2d9834f0483)
